@@ -467,7 +467,7 @@ total_count_primary_space_usage <-
   group_by(primaryspaceusage) %>%
   tally()
 
-register_google(key = "AIzaSyC7LxDSt8IQxwG0_wk-UkC9qU1qz_aqoec")
+register_google(key = )
 
 es_plt_5 <-
   get_map(location = "America"
