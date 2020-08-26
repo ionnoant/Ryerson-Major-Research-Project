@@ -1,8 +1,11 @@
 # BENCHMARKING MACHINE LEARNING PREDICTION METHODS ON AN OPEN DATASET OF HOURLY ELECTRICITY DATA FOR A SET OF NON-RESIDENTIAL BUILDINGS
 
 **Anthony Ionno** 
+
 **Master of Science 2021**
+
 **Data Science and Analytics**
+
 **Ryerson University** 
 
 **ABSTRACT**
